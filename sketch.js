@@ -3,8 +3,8 @@ var foodCount = 20
 
 function preload()
 {
-  happyDog = loadImage("images/dogImg1.png");
-  dogImage = loadImage("images/dogImg.png")
+  happyDog = loadImage("dogImg1.png");
+  dogImage = loadImage("dogImg.png")
 }
 
 function setup() {
